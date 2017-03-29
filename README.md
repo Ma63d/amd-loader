@@ -45,7 +45,6 @@ define(function () {
 })
 ```
 好了，现在在index.html里：
-index.html:
 ```html
 <script>
     // 加载一个能让输入自增后平方的函数
